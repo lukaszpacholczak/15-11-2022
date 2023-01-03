@@ -1,0 +1,74 @@
+.klasa_1{
+    font-size: 20px;
+    font-family: verdana, tahoma, Arial, Helvetica, sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    font-variant: normal;
+    color:blue;
+    text-decoration: underline;
+    text-transform: lowercase;
+    text-align: center;
+    text-indent:20px ;
+    line-height:20px ;
+    word-spacing: 20px;
+    letter-spacing: 20px;
+}
+.klasa_2{
+    font-size: 18px;
+    font-family: Arial, Verdana, Tahoma, sans-serif;
+    font-style: normal;
+    font-weight: 300;
+    font-variant: normal;
+    text-decoration:underline;
+    text-transform: none;
+    text-align: right;
+    text-indent: 18px;
+    line-height: 18px;
+    word-spacing: 18px;
+    letter-spacing: 4px;
+}
+.klasa_3{
+    font-size: 300%;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    font-weight: 500;
+    font-variant: normal;
+    color:lime;
+    text-decoration: none;
+    text-transform: normal;
+    text-align: right;
+    text-indent: 16px;
+    line-height: 16px;
+    word-spacing: 16px;
+    letter-spacing: 16px;
+}
+.klasa_4
+{
+    font-size: 14px;
+    font-family: Tahoma;
+    font-style: oblique;
+    font-weight: 700;
+    font-variant: normal;
+    color: green;
+    text-decoration: line-through;
+    text-transform: capitalize;
+    text-align: justify;
+    text-indent: 2cm;
+    line-height: 0.7cm;
+    word-spacing: 14px;
+    letter-spacing: 14px;
+}
+.klasa_5{
+font-size: 5mm;
+font-family: helvetica, verdana, tahoma, arial, sans-serif;
+font-style: italic;
+font-weight: 900;
+font-variant: normal;
+color:red;
+text-decoration: none;
+text-transform: lowercase;
+text-align: right;
+line-height: 1cm;
+word-spacing: 12px;
+letter-spacing: 12px;
+}
